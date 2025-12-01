@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que eu aprendi na programção?',
+    'O que eu aprendi na programação?',
     'aprendemos a usar o figma'
 )
 
 criaCartao(
-    'Geografia',
-    'O que eu aprendi na programção?',
+    'programação',
+    'O que eu aprendi na programação?',
     'fazer o projeto flash cards'
 )
 
 criaCartao(
     'Programação',
-    'O que eu aprendi na programção?',
+    'O que eu aprendi na programação?',
     'A usars o github'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que eu aprendi na programção?',
+    'programação',
+    'O que eu aprendi na programação?',
     'google colab'
 )
