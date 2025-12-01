@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que eu aprendi na programação?',
-    'A usars o github'
+    'A usar o github'
 )
 
 criaCartao(
